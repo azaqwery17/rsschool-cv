@@ -1,11 +1,11 @@
 # **Azamat Kakhkhorov**
 
-## _Junior Python Developer_    
+## _Junior JS Developer_    
 
 ### Contact information:
 
 Phone: +998 99 796 97 72
-`
+
 E-mail: azam17qohhorov@gmail.com
 
 Discord : qwery_#6478
