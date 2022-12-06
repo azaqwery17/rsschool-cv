@@ -14,7 +14,6 @@ Discord : qwery_#6478
 
 [GitHub](https://github.com/azaqwery17)
 
-
 *****************************
 ### About Myself:
 
@@ -39,7 +38,6 @@ heard about RS school and decided to try new knowledge in the frontend.
 
 ![Task](img\task.png)
 
-
 ```
 
 function findNb(m) {
@@ -55,9 +53,7 @@ function findNb(m) {
         return -1
     
 }
-
 ```
-
 
 *****************************
 ### Courses:
@@ -79,6 +75,7 @@ function findNb(m) {
 
 *****************************
 ### Certificates
+
 * [Udacity](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/4d86c0d5-9a8b-4638-a223-446f6fda8594.pdf)
 * [JS Stepik](https://stepik.org/cert/1438206)
 * [Python Stepik](https://stepik.org/cert/1065662)
