@@ -1,1 +1,1 @@
-https://azaqwery17.github.io/rsschool-cv/cv
+https://azaqwery17.github.io/rsschool-cv/
